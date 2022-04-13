@@ -7,7 +7,8 @@ Requirements:
 1.) for 1 Masternode you need a wallet with 500 SYK Coins (1 additional coin you need for fees!)
 2.) VPS for example on vultr, digital ocean or any other vps services
 
-Feel free to use our reflinks to signup: 
+Feel free to use our reflinks to signup:
+
 vultr: <a href="https://www.vultr.com/?ref=8953070"><img src="https://www.vultr.com/media/banners/banner_468x60.png" width="468" height="60"></a>
 
 digital ocean: <a href="https://www.digitalocean.com/?refcode=7937f503c47f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
