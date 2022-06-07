@@ -64,7 +64,7 @@ download the wallet-client, tx and daemon file
 
 ```bash
 
-wget https://github.com/SyKCoin/syk/releases/download/1000/linux.zip
+wget https://github.com/SyKCoin/syk/releases/download/1001/Linux1001.zip
 ```
 fillout the password of your username and press enter
 
