@@ -64,13 +64,13 @@ download the wallet-client, tx and daemon file
 
 ```bash
 
-wget https://github.com/SyKCoin/syk/releases/download/3000/linux.zip
+wget https://github.com/SyKCoin/syk/releases/download/3000/Syk-Linux3000.zip
 ```
 fillout the password of your username and press enter
 
 
 ```bash
-unzip linux.zip
+unzip Syk-Linux3000.zip
 ```
 ```bash
 sudo chmod +x sykd
