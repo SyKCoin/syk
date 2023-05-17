@@ -35,7 +35,7 @@ getnewaddress "syk1"
 <tr><td>Sbf4EKxwKiSnzoC9g3uqfKhsNhbmkEePWp</td></tr>
 </table>
 
-send exact 500 Coins to the address (confirmation need: 20) 
+send exact 20000 Coins to the address (confirmation need: 20) 
 
 
 # Installation: for Security use SSH on your vps!!
@@ -64,7 +64,7 @@ download the wallet-client, tx and daemon file
 
 ```bash
 
-wget https://github.com/SyKCoin/syk/releases/download/2000/linux.zip
+wget https://github.com/SyKCoin/syk/releases/download/3000/linux.zip
 ```
 fillout the password of your username and press enter
 
@@ -73,25 +73,25 @@ fillout the password of your username and press enter
 unzip linux.zip
 ```
 ```bash
-sudo chmod +x sykcoind
+sudo chmod +x sykd
 ```
 ```bash
-sudo chmod +x sykcoin-tx
+sudo chmod +x syk-tx
 ```
 ```bash
-sudo chmod +x sykcoin-cli
+sudo chmod +x syk-cli
 ```
 ```bash
-sudo mv sykcoind sykcoin-cli sykcoin-tx /usr/bin/
+sudo mv sykd syk-cli syk-tx /usr/bin/
 ```
 ```bash
 sudo apt-get install libdb4.8-dev libdb4.8++-dev -y
 ```
 ```bash
-mkdir $HOME/.sykcoin
+mkdir $HOME/.syk
 ```
 ```bash
-nano $HOME/.sykcoin/sykcoin.conf
+nano $HOME/.syk/syk.conf
 ```
 
 copy this with your details in th conf. file (choose only another good rpcuser and a very good password, you need your masternode genkey from wallet and the ip address of the vps server)
